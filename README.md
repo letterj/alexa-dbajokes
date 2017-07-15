@@ -21,7 +21,7 @@ This is an DBA Jokebook implemented as an Alexa skill.
 Key | Values
 --- | -----
 Name | Database Comic
-Invocation Name | database jokes
+Invocation Name | database comic
 
 
 ### Icons
@@ -29,5 +29,4 @@ Invocation Name | database jokes
 Small: 108 x 108 pixel PNG (can include transparency) or JPG file that represents this skill. Displays in the Alexa App.	
 
 Large: 512 x 512 pixel PNG (can include transparency) or JPG file that represents this skill. Displays in the Alexa App on larger screens.
-
 
